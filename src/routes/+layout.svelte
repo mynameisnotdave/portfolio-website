@@ -4,7 +4,7 @@
 </script>
 
 <!-- App Shell -->
-<AppShell slotPageHeader="w-screen border-2 border-solid">
+<AppShell slotPageHeader="w-screen border-2 border-solid bg-purple-500">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
 		<AppBar>
